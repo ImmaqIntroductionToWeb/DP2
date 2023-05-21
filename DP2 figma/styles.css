@@ -1,0 +1,66 @@
+html {
+ font-family:  Arial, Helvetica, sans-serif;
+ Font-size: 12px;
+ Box-sizing: border-box;
+ Margin: 0;
+ Scroll-Behavior: smooth;
+}
+
+.header {
+ display: flex;
+ justify-content: space-between;
+ padding: 32px 150px;
+ background-color: #60BF80;
+}
+
+.nav-list {
+ display: flex;
+ text-decoration: none;
+ font-size: 16px;
+ color: #d92c49;
+ font-weight: 700;
+ gap: 26px;
+}
+
+.nav-list li {
+ list-style: none;
+}
+
+.logo {
+ height: 50px;
+ width: 50px;
+}
+
+.cart-icon {
+ height: 50px;
+ width: 50px;
+}
+
+.main {
+ padding: 16px 150px
+}
+
+.main-heading {
+ font-size: 20px;
+ font-weight: 700;
+}
+
+.table {
+ border: 1px solid #d92c49;
+ border-collapse: collapse;
+}
+
+td {
+ padding: 82px;
+  border: 1px solid #d92c49;
+}
+
+.items {
+ Text-Size: 16px;
+ Font-Weight:  700;
+}
+
+.price {
+ Text-Size: 16px;
+ Font-Weight:  700;
+} 
